@@ -1,4 +1,8 @@
-### Hi there 👋
+### Say my name 👋
+
+- I’m currently learning to code
+- I’m looking for jun dev job
+- share me your thoughts : bakytovadis@gmail.com ⬅️
 
 <!--
 **LokiFoqi/LokiFoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
