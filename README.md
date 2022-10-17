@@ -1,7 +1,7 @@
 ### Say my name 👋
 
-- I’m currently learning to code
-- I’m looking for jun dev job
+- I’m currently php coding
+- I’m trying to improve my code skills
 - share me your thoughts : bakytovadis@gmail.com ⬅️
 
 <!--
